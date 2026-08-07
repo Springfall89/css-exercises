@@ -3,3 +3,9 @@ p
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.blue-text-size-36
+{
+    color: blue;
+    font-size: 36;
+}
