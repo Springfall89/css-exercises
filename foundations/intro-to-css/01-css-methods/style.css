@@ -1,0 +1,26 @@
+/* Fitst Text */
+
+.red-box
+{
+    background-color: red;
+}
+
+.white-text
+{
+    color: white;
+}
+
+.font-size-32
+{
+    font-size: 32;
+}
+
+.text-centered
+{
+    text-align: center;
+}
+
+.bold
+{
+    font-weight: 700;
+}
